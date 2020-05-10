@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LifeCycleSample</string>
+    <string name="btn_next">次の画面を表示</string>
+    <string name="btn_previous">前の画面を表示</string>
+</resources>
