@@ -8,6 +8,8 @@ import android.view.View
 
 class MainActivity : AppCompatActivity() {
 
+    //Push確認用のコメント
+
     override fun onCreate(savedInstanceState: Bundle?) {
         Log.i("LifeCycleSample", "Main onCreate() called")
         super.onCreate(savedInstanceState)
